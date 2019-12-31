@@ -1,1 +1,2 @@
 Teacher teach me, how to use Git
+Git - это распределенная система версий файла
