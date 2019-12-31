@@ -1,0 +1,29 @@
+[33mcommit c381259901dab7e5e1d406448abfbbd106815c89[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andrew Krasnov <avkras1992@gmail.com>
+Date:   Tue Dec 31 21:13:17 2019 +1000
+
+    Добавили файл 3
+
+[33mcommit 2e5a15e292e184ce824ddd9c95557074fd66382a[m
+Author: Andrew Krasnov <avkras1992@gmail.com>
+Date:   Tue Dec 31 21:01:44 2019 +1000
+
+    Внесли изменения в оба файла и сделали откат reset
+
+[33mcommit 54acc3bbd1602dd3bc167dd705703d331355a9cb[m
+Author: Andrew Krasnov <avkras1992@gmail.com>
+Date:   Tue Dec 31 20:00:36 2019 +1000
+
+    Add in Teacher opredelenie GIT
+
+[33mcommit e7a2df88a55e2e75f2ebdc0346bf7fd1578027dd[m
+Author: Andrew Krasnov <avkras1992@gmail.com>
+Date:   Tue Dec 31 19:30:53 2019 +1000
+
+    Add new file Teacher and modify Hello 2+2
+
+[33mcommit 6a570046a175748d8345136c6752f7b2be060197[m
+Author: Andrew Krasnov <avkras1992@gmail.com>
+Date:   Tue Dec 31 19:22:38 2019 +1000
+
+    Add file Hello
